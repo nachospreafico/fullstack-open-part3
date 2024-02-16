@@ -1,0 +1,12 @@
+{
+  "name": "backend-part3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specification\" && exit 1"
+  },
+  "author": "Ignacio Spreafico",
+  "license": "MIT"
+}
